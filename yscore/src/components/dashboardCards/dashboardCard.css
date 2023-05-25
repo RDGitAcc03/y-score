@@ -1,0 +1,41 @@
+.profile-card-container {
+    padding-top: 60px;
+}
+
+.dasboard-card {
+    margin-bottom: 20px;
+}
+
+.dasboard-card div {
+    max-width: 100%;
+}
+
+.dasboard-card p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+svg.dashboard-icons {
+    font-size: 28px;
+    margin-top: 31px;
+    margin-left: 20px;
+    color: #40e9bb;
+}
+
+.dasboard-card:nth-child(1) svg.dashboard-icons {
+    color: #11b0e1;
+}
+
+.dasboard-card:nth-child(1) svg.dashboard-icons {
+    color: #11b0e1;
+}
+
+.dasboard-card:nth-child(2) svg.dashboard-icons {
+    color: #ff9802;
+}
+
+.dasboard-card:nth-child(3) svg.dashboard-icons {
+    color: #ff4100;
+}
+
